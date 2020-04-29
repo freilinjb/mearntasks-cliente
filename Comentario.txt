@@ -1,0 +1,7 @@
+Unas de las ventajas de utilizar esta estructura
+es tener toda la complejidad que te da redux
+y tener toda la centilles que te da context
+video = 10 MOstrando el Formulario de Nuevo Proyecto
+
+
+Recibiendo mensaje del backend en el frontend
