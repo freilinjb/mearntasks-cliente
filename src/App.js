@@ -13,7 +13,7 @@ import RutaPrivada from './components/rutas/RutaPrivada';
 
 function App() {
 
-  // console.log(process.env.REACT_APP_BACKEND_URL);
+  console.log(process.env.REACT_APP_BACKEND_URL);
   
   //Revisar si tenemos un token
   const token = localStorage.getItem('token');
